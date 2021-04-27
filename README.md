@@ -1,2 +1,3 @@
 # google-homepage
-The odin project - Google homepage
+
+The first odin project - Google homepage
